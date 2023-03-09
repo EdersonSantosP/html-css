@@ -4,4 +4,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://edersonsantosp.github.io/html-css/desafios/desafio-site/site.html"> Executar o exercicio
+<a href="https://edersonsantosp.github.io/html-css/desafios/desafio-site/site.html"> Executar o exercicio</a>
